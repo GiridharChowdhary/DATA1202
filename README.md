@@ -1,6 +1,6 @@
 # DATA 1202
 
-# DEMOSTRATION OS USING A GITHUB
+# DEMOSTRATION OF USING A GITHUB
   Being a student in Data Analytics course, in this project I am going to use the Github for the first time to understand the fundamentals of the tool
   
 # PREREQUISITES
